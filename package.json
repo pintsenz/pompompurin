@@ -1,14 +1,13 @@
 {
   "name": "pompompurin",
-  "displayName": "pompompurin ",
+  "displayName": "pompompurin",
   "description": "cozy and warm pompompurin theme made by pintsenz",
-  "icon": "C:/Users/chenm/OneDrive/Desktop/pompompurin.png",
-    "repository": {
   "version": "1.0.0",
-  "publisher" : "pintsenz",
+  "publisher": "pintsenz",
+  "icon": "C:/Users/chenm/OneDrive/Desktop/pompompurin.png",
   "repository": {
-    "type" : "git",
-    "url" : "https://github.com/pintsenz/pompompurin-theme"
+    "type": "git",
+    "url": "https://github.com/pintsenz/pompompurin-theme"
   },
   "keywords": [
     "dark theme",
@@ -18,7 +17,6 @@
     "pompompurin",
     "sanrio"
   ],
-  
   "engines": {
     "vscode": "^1.88.0"
   },
@@ -34,4 +32,4 @@
       }
     ]
   }
-}}
+}
