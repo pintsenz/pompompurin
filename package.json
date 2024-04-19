@@ -2,6 +2,8 @@
   "name": "pompompurin",
   "displayName": "pompompurin ",
   "description": "cozy and warm pompompurin theme made by pintsenz",
+  "icon": "C:/Users/chenm/OneDrive/Desktop/pompompurin.png",
+    "repository": {
   "version": "0.0.1",
   "publisher" : "pintsenz",
   "repository": {
@@ -32,4 +34,4 @@
       }
     ]
   }
-}
+}}
