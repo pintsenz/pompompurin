@@ -1,0 +1,33 @@
+{
+  "name": "pompompurin",
+  "displayName": "pompompurin ",
+  "description": "cozy and warm pompompurin theme made by pintsenz",
+  "version": "0.0.1",
+  "publisher" : "pintsenz",
+  "repository": {
+    "type" : "git",
+    "url" : "https://github.com/agenomicsphd/agenomicsphd-light"
+  },
+  "keywords": [
+    "light theme",
+    "pink theme",
+    "agenomicsphd",
+    "pink and blue theme"
+  ]
+
+  "engines": {
+    "vscode": "^1.88.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "pompompurin",
+        "uiTheme": "vs",
+        "path": "./themes/pompompurin-color-theme.json"
+      }
+    ]
+  }
+}
