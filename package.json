@@ -4,7 +4,7 @@
   "description": "cozy and warm pompompurin theme made by pintsenz",
   "version": "1.0.0",
   "publisher": "pintsenz",
-  "icon": "C:/Users/chenm/OneDrive/Desktop/pompompurin.png",
+  "icon": "images/pompompurin.png",
   "repository": {
     "type": "git",
     "url": "https://github.com/pintsenz/pompompurin-theme"
