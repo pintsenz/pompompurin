@@ -4,6 +4,6 @@ Please make sure you edit your brackets by going to file> preferences> settings 
 
 ##preview##
 
-!![preview](https://github.com/pintsenz/pompompurin-theme/blob/main/Screenshot%202024-04-19%20162405.png)
+![preview](images/preview5.png)
 Enjoy!
 
