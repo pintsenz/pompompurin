@@ -6,7 +6,7 @@ Please make sure you edit your brackets by going to **File > Preferences > Setti
 
 ## Preview
 
-![Preview of Pompompurin Theme](images/preview5.png)
+![Preview of Pompompurin Theme](images\preview5.png)
 
 Enjoy!
 
