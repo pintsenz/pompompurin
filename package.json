@@ -6,15 +6,17 @@
   "publisher" : "pintsenz",
   "repository": {
     "type" : "git",
-    "url" : "https://github.com/agenomicsphd/agenomicsphd-light"
+    "url" : "https://github.com/pintsenz/pompompurin-theme"
   },
   "keywords": [
-    "light theme",
-    "pink theme",
-    "agenomicsphd",
-    "pink and blue theme"
-  ]
-
+    "dark theme",
+    "cozy theme",
+    "pintsenz",
+    "yellow and brown theme",
+    "pompompurin",
+    "sanrio"
+  ],
+  
   "engines": {
     "vscode": "^1.88.0"
   },
@@ -26,7 +28,7 @@
       {
         "label": "pompompurin",
         "uiTheme": "vs",
-        "path": "./themes/pompompurin-color-theme.json"
+        "path": "./pompompurin-color-theme.json"
       }
     ]
   }
